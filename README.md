@@ -15,3 +15,6 @@ Quantity	-Quantidade do produto
 InvoiceDate -	Data do faturamento (compra)
 UnitPrice	- Preço unitário do produto
 Country -	País da compra
+
+Dataframe: https://colab.research.google.com/drive/19SqHCaSJcY2s-FUwTG9rzVkmTRKQsxRC?usp=sharing
+File csv : https://docs.google.com/spreadsheets/d/1EVUhf8Qk-4Q-19ySr96liXBq-4df2UyIvrVF9f_696U/edit?usp=sharing
